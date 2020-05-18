@@ -1,4 +1,4 @@
-# 20200427 Lesson GitBasics
+Lesson GitBasics Lesson
 
 - init: create a git repository in current directory
 - status: tells you what is going on
@@ -10,5 +10,5 @@
 	- git push origin master
 
 - Title was updated remotely
-# Added line remotely 
+Added line remotely 
 
