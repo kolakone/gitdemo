@@ -8,4 +8,5 @@
 	- git remote dd origin <url> - add a remote
 - push: push the master branch from computer to remote/origin
 	- git push origin master
+# Added line remotely 
 
