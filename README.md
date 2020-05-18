@@ -1,4 +1,4 @@
-# 20200427 GitBasics
+# 20200427 GitBasics Lesson
 
 - init: create a git repository in current directory
 - status: tells you what is going on
@@ -8,5 +8,5 @@
 	- git remote dd origin <url> - add a remote
 - push: push the master branch from computer to remote/origin
 	- git push origin master
-# Added line remotely 
+Added line remotely 
 
